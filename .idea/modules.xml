@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../EliMVVMExample/EliMVVMExample.iml" filepath="$PROJECT_DIR$/../EliMVVMExample/EliMVVMExample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EliTest/EliTest.iml" filepath="$PROJECT_DIR$/../EliTest/EliTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Patam2MVVMProject.iml" filepath="$PROJECT_DIR$/Patam2MVVMProject.iml" />
+      <module fileurl="file://$USER_HOME$/Desktop/Patam2Proj-master/Patam2Proj-master.iml" filepath="$USER_HOME$/Desktop/Patam2Proj-master/Patam2Proj-master.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../EliTest/Tests/Tests.iml" filepath="$PROJECT_DIR$/../EliTest/Tests/Tests.iml" />
+    </modules>
+  </component>
+</project>
